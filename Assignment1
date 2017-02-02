@@ -1,0 +1,25 @@
+<!--
+  Assignment #1 - REMEMBER TO FOLLOW THE STYLE GUIDE
+  1. Fork your own version of this repo
+  2. Create a branch named <your-name>-assignment1 (in my case it would be mattbowytz-assignment1)
+  3. Basing your code off of the below example, tell me a little bit about yourself
+-->
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 1</title>
+  </head>
+  <body>
+
+    <h1 class="header">Connie Xu</h1>
+
+    <ul>
+      <li>About 10 years ago, I made a webpage using Dreamweaver at summer camp.</li>
+      <li>That's all the web development experience I have. </li>
+      <li>I'm going to assume that probably doesn't count though.</li>
+    </ul>
+    
+  </body>
+</html>
